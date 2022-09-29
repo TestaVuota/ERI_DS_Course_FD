@@ -1,0 +1,12 @@
+lien du cours:
+https://fbertran.github.io/ERI_DS_Course_FD/e2e05e3f4504f6720468d37f7af9132a51bbbf3d/Supports/TP_fitting_distributions.html
+https://fbertran.github.io/ERI_DS_Course_FD/e2e05e3f4504f6720468d37f7af9132a51bbbf3d/Supports/DistFit.html -> keyword: empirical
+
+cran.r-project:
+https://cran.r-project.org/web/views/Distributions.html -> keyword: Continuous distributions
+associated github: https://github.com/cran-task-views/Distributions/
+
+autres liens:
+https://fbertran.github.io/homepage/
+
+https://fbertran.github.io/ModStatR/
